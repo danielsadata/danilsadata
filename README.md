@@ -1,7 +1,7 @@
-# danilsadata
+# DANIEL DE SÁ- DATE ANALYSTCS
 
 Bem-vindo à minha página inicial no GitHub!
-Olá, meu nome é [seu nome] e esta é a minha página inicial no GitHub. Aqui você pode encontrar alguns projetos que eu estou trabalhando atualmente, além de algumas informações sobre mim.
+ Aqui você pode encontrar alguns projetos que eu estou trabalhando atualmente, além de algumas informações sobre mim.
 
 ## Sobre Mim
 [Olá! Meu nome é Daniel Sá e sou analista de dados em formação com experiência em análise e visualização de dados. Possuo conhecimentos em Excel para analise de dados, SQL E POWER BI, incluindo:
