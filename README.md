@@ -25,5 +25,3 @@ Como Contribuir
 ## Contato
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danielrsa/)
 
-## Agradecimentos
-[Adicione uma seção de agradecimentos para pessoas que te ajudaram ou inspiraram ao longo do caminho]
